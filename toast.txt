@@ -1,2 +1,6 @@
 Recipe name: Five Stars Avocado Toast
 Cooking time: 120 minutes
+Ingredients:
+	- Bread
+	- 3 Avocados
+	- Bacon
